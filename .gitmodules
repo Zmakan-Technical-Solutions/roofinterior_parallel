@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_automatic_barcode"]
+	path = Zmakan-Technical-Solutions/zts_automatic_barcode
+	url = git@github.com:Zmakan-Technical-Solutions/zts_automatic_barcode.git
+	branch = 13.0
