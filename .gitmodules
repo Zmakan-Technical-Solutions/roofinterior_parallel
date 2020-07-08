@@ -6,3 +6,7 @@
 	path = Zmakan-Technical-Solutions/zts_ri_custom
 	url = git@github.com:Zmakan-Technical-Solutions/zts_ri_custom.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_so_quotation_image"]
+	path = Zmakan-Technical-Solutions/zts_so_quotation_image
+	url = git@github.com:Zmakan-Technical-Solutions/zts_so_quotation_image.git
+	branch = 13.0
