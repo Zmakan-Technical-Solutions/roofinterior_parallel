@@ -6,7 +6,17 @@
 	path = Zmakan-Technical-Solutions/zts_ri_custom
 	url = git@github.com:Zmakan-Technical-Solutions/zts_ri_custom.git
 	branch = 13.0
+
 [submodule "Zmakan-Technical-Solutions/zts_so_quotation_image"]
 	path = Zmakan-Technical-Solutions/zts_so_quotation_image
 	url = git@github.com:Zmakan-Technical-Solutions/zts_so_quotation_image.git
+
+
+[submodule "Zmakan-Technical-Solutions/zts_salesteam_inv_sequence"]
+	path = Zmakan-Technical-Solutions/zts_salesteam_inv_sequence
+	url = git@github.com:Zmakan-Technical-Solutions/zts_salesteam_inv_sequence.git
+
+[submodule "Zmakan-Technical-Solutions/zts_product_report_image"]
+	path = Zmakan-Technical-Solutions/zts_product_report_image
+	url = git@github.com:Zmakan-Technical-Solutions/zts_product_report_image.git
 	branch = 13.0
