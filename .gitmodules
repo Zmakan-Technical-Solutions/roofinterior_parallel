@@ -10,3 +10,7 @@
 	path = Zmakan-Technical-Solutions/l10n_qa_hr_payroll
 	url = git@github.com:Zmakan-Technical-Solutions/l10n_qa_hr_payroll.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_loan"]
+	path = Zmakan-Technical-Solutions/zts_loan
+	url = git@github.com:Zmakan-Technical-Solutions/zts_loan.git
+	branch = 13.0
