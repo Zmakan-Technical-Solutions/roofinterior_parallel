@@ -44,3 +44,7 @@
 	path = Zmakan-Technical-Solutions/zts_hr_eos
 	url = git@github.com:Zmakan-Technical-Solutions/zts_hr_eos.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_wps_sif"]
+	path = Zmakan-Technical-Solutions/zts_wps_sif
+	url = git@github.com:Zmakan-Technical-Solutions/zts_wps_sif.git
+	branch = 13.0
