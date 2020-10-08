@@ -48,7 +48,4 @@
 	path = Zmakan-Technical-Solutions/zts_wps_sif
 	url = git@github.com:Zmakan-Technical-Solutions/zts_wps_sif.git
 	branch = 13.0
-[submodule "Zmakan-Technical-Solutions/zts_asg_custom"]
-	path = Zmakan-Technical-Solutions/zts_asg_custom
-	url = git@github.com:hibapk-zmakan/zts_asg_custom.git
-	branch = 13.0
+
