@@ -48,3 +48,7 @@
 	path = Zmakan-Technical-Solutions/zts_wps_sif
 	url = git@github.com:Zmakan-Technical-Solutions/zts_wps_sif.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_roof_custom_print"]
+	path = Zmakan-Technical-Solutions/zts_roof_custom_print
+	url = git@github.com:Zmakan-Technical-Solutions/zts_roof_custom_print.git
+	branch = 13.0
